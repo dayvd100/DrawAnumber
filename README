@@ -1,0 +1,27 @@
+# Nome do Projeto
+
+Descrição breve do seu projeto. Explique o propósito e o que ele faz.
+
+## Tecnologias
+
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/) (ou qualquer outro bundler que você esteja usando)
+
+## Pré-requisitos
+
+Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
+
+## Instalação
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/dayvd100/DrawAnumber.git
+
+2. Rode o projeto:
+
+     ```bash
+    npm install 
+    npm run dev 
+  
