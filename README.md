@@ -18,7 +18,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    ```bash
    git clone https://github.com/dayvd100/DrawAnumber.git
 
-2. Rode o projeto:
+2. Now just run the project:
 
      ```bash
     npm install 
